@@ -23,5 +23,14 @@ int main()
 
         // ##### variable and data type #####
 
+        // createding a virable is two step process
+
+        int a;  // declaration
+        a = 12; // initialization
+        // or combined
+        int b = 12;
+
+        // # Data types
+        
         return 0;
 }

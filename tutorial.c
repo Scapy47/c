@@ -64,6 +64,9 @@ int main()
         but unsigned data types can only store natural number or positive number
         which doubles the range of data type
         unsigned data types have there own format specifiers
+        
+        sign and unsign keywords can be use to sign or unsign data types
+
         */
         return 0;
 }
